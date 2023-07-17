@@ -410,6 +410,7 @@ section .container {
 # About
 --------------------------------------------------------------*/
 .about-me .content h3 {
+  margin-top: 95px;
   font-weight: 700;
   font-size: 26px;
   color: #18d26e;
